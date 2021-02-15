@@ -1,4 +1,8 @@
-# Tailwind CSS Playground
+# Tailwind CSS 2.0 Playground
+
+**Note** This code has been cloned from an archived tailwindlabs repository https://github.com/tailwindlabs/tailwindcss-playground and upgraded to work with TailwindCSS 2.0.x.
+
+---
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
@@ -7,9 +11,9 @@ To get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+   git clone https://github.com/blown5pt0/tailwindcss-2.0-playground.git tailwindcss-playground
 
-   cd tailwindcss-playground
+   cd tailwindcss-2.0-playground
    ```
 
 2. Install the dependencies:
@@ -35,10 +39,6 @@ To get started:
    Now you should be able to see the project running at localhost:8080.
 
 4. Open `public/index.html` in your editor and start experimenting!
-
-## Play with it on CodeSandbox
-
-A CodeSandbox version of this playground [is one click away](https://codesandbox.io/s/github/tailwindcss/playground/tree/master)!
 
 ## Building for production
 
